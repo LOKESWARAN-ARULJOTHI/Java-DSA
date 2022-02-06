@@ -1,3 +1,6 @@
+// 1920. Build Array from Permutation.java
+// https://leetcode.com/problems/build-array-from-permutation/
+
 class Solution {
     public int[] buildArray(int[] nums) {
         int numsLength = nums.length;
